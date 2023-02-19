@@ -1,0 +1,14 @@
+{
+    "name" : "clayton/base-api",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clayton Charles Silva Neres",
+            "email": "claydevfull@gmail.com"
+        }
+    ]
+}
