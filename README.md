@@ -16,6 +16,7 @@ RewriteEngine on
 RewriteRule ^(.*)?$ basePhp/public/index.php [L]
 
 **Trocar credenciais.**
+
 {
     "name" : "clayton/base-api",
     "autoload": {
