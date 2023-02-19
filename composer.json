@@ -2,7 +2,8 @@
     "name" : "clayton/base-api",
     "autoload": {
         "psr-4": {
-            "App\\" : "app/"
+            "App\\" : "app/",
+            "Config\\" : "config"
         }
     },
     "authors": [
