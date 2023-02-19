@@ -32,4 +32,4 @@ RewriteRule ^(.*)?$ basePhp/public/index.php [L]
     ]
 }
 
--> Altere acima para seus dados.
+-> Altere acima para seus dados, localizado em composer.json.
