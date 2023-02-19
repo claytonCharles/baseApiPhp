@@ -6,17 +6,16 @@ Base para api simples. "Posso melhora-la ao longo do tempo"
 ->Composer instalado href="https://getcomposer.org/doc/00-intro.md"
 
 # Inicialização do sistema!
-
-->composer dumpauto.
+->composer dumpauto. \n
 ->Possuir um htacces redirecionando direto para o index, dependendo do projeto.
 # Exemplo Xampp
-# .htaccess localizado em => C:\xampp\htdocs\
+.htaccess localizado em => C:\xampp\htdocs\
 
 Options -Indexes
 RewriteEngine on
 RewriteRule ^(.*)?$ basePhp/public/index.php [L]
 
-# Trocar credenciais.
+**Trocar credenciais.**
 {
     "name" : "clayton/base-api",
     "autoload": {
