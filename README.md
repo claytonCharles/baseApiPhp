@@ -6,7 +6,7 @@ Base para api simples. "Posso melhora-la ao longo do tempo"
 ->Composer instalado href="https://getcomposer.org/doc/00-intro.md"
 
 # Inicialização do sistema!
-->composer dumpauto. \n
+->composer dumpauto.
 ->Possuir um htacces redirecionando direto para o index, dependendo do projeto.
 # Exemplo Xampp
 .htaccess localizado em => C:\xampp\htdocs\
